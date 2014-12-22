@@ -37,9 +37,15 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-A quip for an vpstart courtier: or, A quaint dispute betvveen veluet breeches and cloth-breeches Whe
+
+1. To the Right Worshipful Thomas Burnabie Esquier Robert Greene wisheth hartes ease, and heauens blisse.
+
+1. To the Gentlemen Readers health.
+
 #####Body#####
-A quip for an vpstart courtier: or, A quaint dispute betvveen veluet breeches and cloth-breeches Whe
+
+1. A quip for an vpstart Courtier.
+
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
